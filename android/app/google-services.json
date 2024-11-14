@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918702623879",
+    "project_id": "imitahe3",
+    "storage_bucket": "imitahe3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918702623879:android:4c63fbe54da4e967cd3c22",
+        "android_client_info": {
+          "package_name": "com.example.imitahe3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs3nfXVmWARAhPXUky7R8mqVcu3TlyEF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
